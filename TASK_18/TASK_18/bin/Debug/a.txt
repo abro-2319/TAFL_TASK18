@@ -1,0 +1,6 @@
+    a   b   c
+s_A B   C   D
+B   s_A C   null
+C   B   f_E D
+D   B   C   f_E
+f_E B   C   D
